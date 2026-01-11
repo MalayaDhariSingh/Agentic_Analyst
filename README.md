@@ -80,3 +80,8 @@ Transparent Logic: Click the "Expanders" in the UI to see the raw output of ever
 Zero Cost: Uses Groq's free tier and Open Source tools.
 
 Hallucination Check: The Critic agent specifically acts as a guardrail against false information.
+## Deployment
+The Agentic Analyst is fully containerized.
+
+![Docker Build Proof] <img width="802" height="80" alt="image" src="https://github.com/user-attachments/assets/678afc6f-a995-45d6-8b11-fa5beb92c2ac" />
+
