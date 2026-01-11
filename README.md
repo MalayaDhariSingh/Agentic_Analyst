@@ -7,6 +7,8 @@
 ![Docker](https://img.shields.io/badge/Deployment-Docker-blue.svg)
 
 **An autonomous multi-agent system that plans, researches, drafts, and critiques executive briefings using Llama 3.3 and CrewAI.**
+The Agentic Analyst is fully containerized.Docker build: 
+<img width="802" height="80" alt="image" src="https://github.com/user-attachments/assets/1b9c60c9-ac98-4a72-a86f-8a5f5ffd2c3c" />
 
 ---
 
@@ -83,5 +85,5 @@ Hallucination Check: The Critic agent specifically acts as a guardrail against f
 ## Deployment
 The Agentic Analyst is fully containerized.
 
-![Docker Build Proof] <img width="802" height="80" alt="image" src="https://github.com/user-attachments/assets/678afc6f-a995-45d6-8b11-fa5beb92c2ac" />
+
 
