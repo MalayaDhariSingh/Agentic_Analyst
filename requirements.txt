@@ -1,0 +1,10 @@
+streamlit
+crewai
+crewai-tools
+langchain
+langchain-community
+langchain-huggingface
+huggingface-hub
+duckduckgo-search
+python-dotenv
+langchain-groq
